@@ -12,7 +12,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 * I am improving myself in the fields of digital forensic informatics, expertise and cyber security.
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tubakavgacı&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tubakvgc&layout=compact">
 
  ## Who am I?
  ```python
