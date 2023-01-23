@@ -5,9 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-TubaKavgacı-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tubakavgaci)](https://www.linkedin.com/in/tubakavgaci) [![Gmail Badge](https://img.shields.io/badge/-tbkvgc7.2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbkvgc7.2@gmail.com)](mailto:tbkvgc7.2@gmail.com)  [![Medium Badge](https://img.shields.io/badge/-TubaKavgacı-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@tbkvgc7.2)](https://medium.com/@tbkvgc7.2)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tubakvgc" alt="tubakavgacı" /> </p>
 
-Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
-
-
 
 * I am improving myself in the fields of digital forensic informatics, expertise and cyber security.
 
