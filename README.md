@@ -2,7 +2,7 @@
 ### Hey,[Tuba here!]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-TubaKavgacı-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tubakavgaci)](https://www.linkedin.com/in/tubakavgaci) [![Gmail Badge](https://img.shields.io/badge/-tbkvgc7.2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tubakavgaci47@gmail.com)](mailto:tbkvgc7.2@gmail.com)  [![Medium Badge](https://img.shields.io/badge/-TubaKavgacı-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@tbkvgc7.2)](https://medium.com/@tbkvgc7.2)
+[![Linkedin Badge](https://img.shields.io/badge/-TubaKavgacı-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tubakavgaci)](https://www.linkedin.com/in/tubakavgaci) [![Gmail Badge](https://img.shields.io/badge/-tbkvgc7.2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tubakavgaci47@gmail.com)](mailto:tubakavgaci47@gmail.com)  [![Medium Badge](https://img.shields.io/badge/-TubaKavgacı-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@tbkvgc7.2)](https://medium.com/@tbkvgc7.2)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tubakvgc" alt="tubakavgacı" /> </p>
 
 
