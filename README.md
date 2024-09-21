@@ -6,20 +6,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tubakvgc" alt="tubakavgacı" /> </p>
 
 
-* I am improving myself in the fields of digital forensic informatics, expertise and cyber security.
+* I’m Tuba Kavgacı, a Digital Forensics Engineering graduate working as a cybersecurity specialist. I focus on enhancing my skills in digital forensics and cybersecurity.
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tubakvgc&layout=compact">
 
  ## Who am I?
  ```python
- class WhoAmI:
-	user = 'Tuba Kavgacı'
-	current_edu = "Firat University / 4th"
+class WhoAmI:
+    user = 'Tuba Kavgacı'
+    current_edu = "Digital Forensic Engineering Graduate"
+    current_job = "Cybersecurity Specialist at İşNet"
+"
 ```
  
 ## Current Works
- * I'm currently working on 🔭  **BugBounty**,  **SOC**, **Pentesting**and working up on polishing my skills 🌱 in **Cyber Security**.
+ * I'm currently working on 🔭  **BugBounty**,  **SOC**, **Pentesting** and working up on polishing my skills 🌱 in **Cyber Security**.
  * I'm currently working on 🔭  **Data Recovery**,  **Data Review** and working up on polishing my skills 🌱 in **Digital Forensic**.
  
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=tubakvgc&show_icons=true&hide=[%22issues%22])
@@ -36,6 +38,6 @@
 + Simple School Management System - Vulnerabilities [CVE-2024-25304 - CVE-2024-25305 - CVE-2024-25306 - CVE-2024-25308 - CVE-2024-25309 - CVE-2024-25310 - CVE-2024-25312 - CVE-2024-25313]
 + Hotel Managment System  - Vulnarabilities [CVE-2024-25317 - CVE-2024-25315 - CVE-2024-25314 - CVE-2024-25318 CVE-2024-25316]
   
+## CVE PoC List
 
- 
-![CVE PoC List](https://github.com/tubakvgc/CVEs) 
+[CVE PoC List](https://github.com/tubakvgc/CVEs)
